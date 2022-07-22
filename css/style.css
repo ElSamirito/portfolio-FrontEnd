@@ -18,3 +18,14 @@ button{
     background-color: darkblue;
     border: none;
 }
+.carousel{
+    background-color: blue;
+}
+.content{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.blob{
+    width: 40vw;
+}
